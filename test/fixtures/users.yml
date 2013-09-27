@@ -3,6 +3,7 @@ brandon:
   last_name: "Rodgers"
   email: "brandonrodgers@gmail.com"
   profile_name: "bjr31286"
+  favorite_movie: "Crash"
   #password: "password"
   #password_confirmation: "password"
 
@@ -11,3 +12,4 @@ maci:
   last_name: "Rodgers"
   email: "macimouse@gmail.com"
   profile_name: "mousecateer"
+  favorite_movie: "The Avengers"
