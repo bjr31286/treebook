@@ -5,3 +5,9 @@ brandon:
   profile_name: "bjr31286"
   #password: "password"
   #password_confirmation: "password"
+
+maci:
+  first_name: "Maci"
+  last_name: "Rodgers"
+  email: "macimouse@gmail.com"
+  profile_name: "mousecateer"

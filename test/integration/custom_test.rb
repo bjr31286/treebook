@@ -16,4 +16,9 @@ class CustomTest < ActionDispatch::IntegrationTest
 		get '/register'
 		assert_response :success
 	end
+
+	test "that a profile page works" do
+		get '/bjr31286'
+		assert_response :success
+	end
 end
